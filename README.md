@@ -1,2 +1,2 @@
-#Tic Tac Toe
+Tic Tac Toe
 - Using HML, CSS and JavaScript
